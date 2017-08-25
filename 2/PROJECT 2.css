@@ -1,0 +1,137 @@
+body{
+	margin: 0;
+}
+header {
+	background-color:#ff7381  ;
+	height: 80px;
+	width: 100%;
+	
+}
+
+.logo img{
+	float: left;
+	width: 150px;
+	height: 80px;
+	
+	
+}
+.media img{
+	float: right;
+	width: 50px;
+	height: 50px;
+	margin-top: 15px;
+}
+
+
+
+.division{
+	float: left;
+	color: black;
+	width: 30%;
+	height: 498px;
+	font-size: 40px;
+	overflow: hidden;
+	background-color: #cad9f2;
+
+}
+li{
+	list-style-type: none;
+
+  }
+ul a{
+	display: block;
+	width: 80%;
+	margin: 0;
+	text-decoration: none;
+    color: black;
+    }
+ul{
+    	padding-left: 0;
+        margin-top: 0;
+        margin-bottom: 0;
+
+}
+
+a:hover{
+	background-color: blue;
+	width: 100%;
+	color: white;
+
+}
+
+#d03{
+	width: 70%;
+	padding-left: 50px;
+}
+.waterbear{
+	width: 900px;
+	margin: 0 auto;
+	overflow: hidden;
+	margin-left: 0;
+}
+.full_content{
+	background-color: #e4e1df;
+	overflow-y: scroll;
+	height: 498px;
+}
+.waterpipes{
+	float: left;
+	width: 40%;
+	margin: 0 8%;
+	border: 1px solid black;
+    padding: 5px;
+    overflow: hidden;
+}
+.imgsize{
+	width: 360px;
+	height: 169px;
+}
+.Bearings{
+	float: left;
+	width: 40%;
+	border: 1px solid black;
+	padding: 5px;
+	overflow: hidden;
+}
+.bearsize{
+	width: 360px;
+	height: 169px;
+	
+}
+.gearcase{
+	width: 900px;
+	margin:0 auto;
+	overflow: hidden;
+	margin-top: 8%;
+	margin-left: 0;
+}
+.gears{
+	float: left;
+	width: 40%;
+	border: 1px solid black;
+    overflow: hidden;
+    margin:0 8%;
+    padding: 5px;
+}
+.gearsize{
+	width: 360px;
+	height: 169px;
+}
+.engcase{
+	width: 40%;
+	border: 1px solid black;
+	overflow: hidden;
+	padding: 5px;
+}
+.engsize{
+	width: 360px;
+	height: 169px;
+}
+
+footer{
+	background-color: #ff7381;
+	height: 50px;
+	text-align: right;
+	vertical-align: middle;
+	padding:5px 2px;
+}
